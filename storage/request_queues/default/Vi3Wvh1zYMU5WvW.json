@@ -1,0 +1,9 @@
+{
+	"id": "Vi3Wvh1zYMU5WvW",
+	"json": "{\"id\":\"Vi3Wvh1zYMU5WvW\",\"url\":\"https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Myanmar\",\"loadedUrl\":\"https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Myanmar\",\"uniqueKey\":\"https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Myanmar\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-07-02T07:41:25.408Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Myanmar",
+	"url": "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Myanmar"
+}

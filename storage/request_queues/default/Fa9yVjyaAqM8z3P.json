@@ -1,0 +1,9 @@
+{
+	"id": "Fa9yVjyaAqM8z3P",
+	"json": "{\"id\":\"Fa9yVjyaAqM8z3P\",\"url\":\"https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Indonesia\",\"loadedUrl\":\"https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Indonesia\",\"uniqueKey\":\"https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Indonesia\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-07-02T07:41:25.311Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Indonesia",
+	"url": "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Indonesia"
+}

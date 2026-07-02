@@ -1,0 +1,9 @@
+{
+	"id": "gGEiAAN2qLMIC6o",
+	"json": "{\"id\":\"gGEiAAN2qLMIC6o\",\"url\":\"https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Pakistan\",\"loadedUrl\":\"https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Pakistan\",\"uniqueKey\":\"https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Pakistan\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-07-02T07:41:25.595Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Pakistan",
+	"url": "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Pakistan"
+}

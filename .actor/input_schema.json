@@ -1,0 +1,21 @@
+{
+    "title": "Indian Temple Directory Scraper Input",
+    "type": "object",
+    "schemaVersion": 1,
+    "properties": {
+        "states": {
+            "title": "Indian States (optional)",
+            "type": "array",
+            "description": "List of states to filter temples by. E.g. 'Tamil Nadu', 'Rajasthan', 'Kerala'. Leave empty for all India.",
+            "editor": "stringList",
+            "prefill": ["Tamil Nadu"]
+        },
+        "maxTemples": {
+            "title": "Maximum Temples to Extract",
+            "type": "integer",
+            "description": "Cap on the number of temple records to extract.",
+            "default": 100,
+            "minimum": 1
+        }
+    }
+}

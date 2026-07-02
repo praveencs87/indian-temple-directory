@@ -1,0 +1,9 @@
+{
+	"id": "78pB7onSSFsP1e5",
+	"json": "{\"id\":\"78pB7onSSFsP1e5\",\"url\":\"https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Afghanistan\",\"loadedUrl\":\"https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Afghanistan\",\"uniqueKey\":\"https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Afghanistan\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-07-02T07:41:25.153Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Afghanistan",
+	"url": "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Afghanistan"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "XuXi54xTRstIpF1",
+	"json": "{\"id\":\"XuXi54xTRstIpF1\",\"url\":\"https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Thailand\",\"loadedUrl\":\"https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Thailand\",\"uniqueKey\":\"https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Thailand\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"crawlDepth\":1,\"enqueueStrategy\":\"same-domain\",\"state\":4}},\"handledAt\":\"2026-07-02T07:41:25.852Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Thailand",
+	"url": "https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_Thailand"
+}
