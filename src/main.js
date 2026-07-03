@@ -1,3 +1,4 @@
+import { armKillSwitch, disarmKillSwitch } from './utils/timeoutManager.js';
 import { Actor, log } from 'apify';
 import { CheerioCrawler } from 'crawlee';
 
@@ -87,7 +88,9 @@ try {
     });
 
     await crawler.addRequests([{ url: 'https://en.wikipedia.org/wiki/List_of_Hindu_temples_in_India' }]);
+    armKillSwitch(crawler);
     await crawler.run();
+    disarmKillSwitch();
 
     log.info(`🎉 Done! Extracted ${extractedCount} temples.`);
 } catch (error) {
